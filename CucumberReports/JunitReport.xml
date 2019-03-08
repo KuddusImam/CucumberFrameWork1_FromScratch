@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="18" time="219.64888">
+<testcase classname="Testing Logins" name="Google Search" time="11.343156">
+<system-out><![CDATA[Given Enviroment is ready...................................................passed
+When go to 'https://www.google.com' website.................................passed
+Then Enter 'apple' in search box............................................passed
+* Close Browser.............................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing Logins" name="Google Search 2" time="7.698222">
+<system-out><![CDATA[Given Enviroment is ready...................................................passed
+When go to 'https://www.google.com' website.................................passed
+Then Enter 'kitap' in search box............................................passed
+* Close Browser.............................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing Logins" name="Google Search 3" time="8.340677">
+<system-out><![CDATA[Given Enviroment is ready...................................................passed
+When go to 'https://www.google.com' website.................................passed
+Then Enter 'uyghur' in search box...........................................passed
+* Close Browser.............................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing Logins" name="Google Search 4" time="8.011235">
+<system-out><![CDATA[Given Enviroment is ready...................................................passed
+When go to 'https://www.google.com' website.................................passed
+Then Enter 'Reyise' in search box...........................................passed
+* Close Browser.............................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing Logins" name="Google Search 5" time="7.774491">
+<system-out><![CDATA[Given Enviroment is ready...................................................passed
+When go to 'https://www.google.com' website.................................passed
+Then Enter 'Duttar' in search box...........................................passed
+* Close Browser.............................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing Logins" name="Google Search 6" time="8.531742">
+<system-out><![CDATA[Given Enviroment is ready...................................................passed
+When go to 'https://www.google.com' website.................................passed
+Then Enter 'Japan' in search box............................................passed
+* Close Browser.............................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing Logins" name="Google Search 7" time="7.890971">
+<system-out><![CDATA[Given Enviroment is ready...................................................passed
+When go to 'https://www.google.com' website.................................passed
+Then Enter 'kawap' in search box............................................passed
+* Close Browser.............................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing Logins" name="Google Search 8" time="8.355188">
+<system-out><![CDATA[Given Enviroment is ready...................................................passed
+When go to 'https://www.google.com' website.................................passed
+Then Enter 'soccer' in search box...........................................passed
+* Close Browser.............................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing Logins" name="Google Search 9" time="8.778059">
+<system-out><![CDATA[Given Enviroment is ready...................................................passed
+When go to 'https://www.google.com' website.................................passed
+Then Enter 'computer' in search box.........................................passed
+* Close Browser.............................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing Logins" name="Amazon Search" time="15.818332">
+<system-out><![CDATA[Given Enviroment is ready...................................................passed
+When go to 'https://www.amazon.com' website.................................passed
+And enter 'apple' in the search box.........................................passed
+* Close Browser.............................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing Logins" name="Amazon Search 2" time="15.796991">
+<system-out><![CDATA[Given Enviroment is ready...................................................passed
+When go to 'https://www.amazon.com' website.................................passed
+And enter 'kitap' in the search box.........................................passed
+* Close Browser.............................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing Logins" name="Amazon Search 3" time="14.80692">
+<system-out><![CDATA[Given Enviroment is ready...................................................passed
+When go to 'https://www.amazon.com' website.................................passed
+And enter 'uyghur' in the search box........................................passed
+* Close Browser.............................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing Logins" name="Amazon Search 4" time="14.067115">
+<system-out><![CDATA[Given Enviroment is ready...................................................passed
+When go to 'https://www.amazon.com' website.................................passed
+And enter 'Reyise' in the search box........................................passed
+* Close Browser.............................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing Logins" name="Amazon Search 5" time="15.323966">
+<system-out><![CDATA[Given Enviroment is ready...................................................passed
+When go to 'https://www.amazon.com' website.................................passed
+And enter 'Duttar' in the search box........................................passed
+* Close Browser.............................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing Logins" name="Amazon Search 6" time="15.972839">
+<system-out><![CDATA[Given Enviroment is ready...................................................passed
+When go to 'https://www.amazon.com' website.................................passed
+And enter 'Japan' in the search box.........................................passed
+* Close Browser.............................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing Logins" name="Amazon Search 7" time="18.203024">
+<system-out><![CDATA[Given Enviroment is ready...................................................passed
+When go to 'https://www.amazon.com' website.................................passed
+And enter 'kawap' in the search box.........................................passed
+* Close Browser.............................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing Logins" name="Amazon Search 8" time="17.628568">
+<system-out><![CDATA[Given Enviroment is ready...................................................passed
+When go to 'https://www.amazon.com' website.................................passed
+And enter 'soccer' in the search box........................................passed
+* Close Browser.............................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Testing Logins" name="Amazon Search 9" time="15.307384">
+<system-out><![CDATA[Given Enviroment is ready...................................................passed
+When go to 'https://www.amazon.com' website.................................passed
+And enter 'computer' in the search box......................................passed
+* Close Browser.............................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

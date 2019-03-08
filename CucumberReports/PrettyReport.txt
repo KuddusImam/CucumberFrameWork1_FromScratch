@@ -1,0 +1,180 @@
+@Regression @User2
+Feature: Testing Logins
+
+  @Smoke
+  Scenario Template: Google Search [90m# Features\Search.feature:10[0m
+    [36mWhen go to 'https://www.google.com' website[0m
+    [36mThen Enter '<Products>' in search box[0m
+    [36m* Close Browser[0m
+
+    Examples: 
+
+  Background: set up          [90m# Features\Search.feature:6[0m
+    [32mGiven [0m[32mEnviroment is ready[0m [90m# SearchSteps.enviroment_is_ready()[0m
+
+  @Regression @User2 @Smoke
+  Scenario Template: Google Search              [90m# Features\Search.feature:17[0m
+    [32mWhen [0m[32mgo to [0m[32m[1m'https://www.google.com'[0m[32m website[0m [90m# SearchSteps.go_to_website(String)[0m
+    [32mThen [0m[32mEnter [0m[32m[1m'apple'[0m[32m in search box[0m            [90m# SearchSteps.enter_in_search_box(String)[0m
+    [32m* [0m[32mClose Browser[0m                             [90m# SearchSteps.close_Browser()[0m
+
+  Background: set up          [90m# Features\Search.feature:6[0m
+    [32mGiven [0m[32mEnviroment is ready[0m [90m# SearchSteps.enviroment_is_ready()[0m
+
+  @Regression @User2 @Smoke
+  Scenario Template: Google Search              [90m# Features\Search.feature:18[0m
+    [32mWhen [0m[32mgo to [0m[32m[1m'https://www.google.com'[0m[32m website[0m [90m# SearchSteps.go_to_website(String)[0m
+    [32mThen [0m[32mEnter [0m[32m[1m'kitap'[0m[32m in search box[0m            [90m# SearchSteps.enter_in_search_box(String)[0m
+    [32m* [0m[32mClose Browser[0m                             [90m# SearchSteps.close_Browser()[0m
+
+  Background: set up          [90m# Features\Search.feature:6[0m
+    [32mGiven [0m[32mEnviroment is ready[0m [90m# SearchSteps.enviroment_is_ready()[0m
+
+  @Regression @User2 @Smoke
+  Scenario Template: Google Search              [90m# Features\Search.feature:19[0m
+    [32mWhen [0m[32mgo to [0m[32m[1m'https://www.google.com'[0m[32m website[0m [90m# SearchSteps.go_to_website(String)[0m
+    [32mThen [0m[32mEnter [0m[32m[1m'uyghur'[0m[32m in search box[0m           [90m# SearchSteps.enter_in_search_box(String)[0m
+    [32m* [0m[32mClose Browser[0m                             [90m# SearchSteps.close_Browser()[0m
+
+  Background: set up          [90m# Features\Search.feature:6[0m
+    [32mGiven [0m[32mEnviroment is ready[0m [90m# SearchSteps.enviroment_is_ready()[0m
+
+  @Regression @User2 @Smoke
+  Scenario Template: Google Search              [90m# Features\Search.feature:20[0m
+    [32mWhen [0m[32mgo to [0m[32m[1m'https://www.google.com'[0m[32m website[0m [90m# SearchSteps.go_to_website(String)[0m
+    [32mThen [0m[32mEnter [0m[32m[1m'Reyise'[0m[32m in search box[0m           [90m# SearchSteps.enter_in_search_box(String)[0m
+    [32m* [0m[32mClose Browser[0m                             [90m# SearchSteps.close_Browser()[0m
+
+  Background: set up          [90m# Features\Search.feature:6[0m
+    [32mGiven [0m[32mEnviroment is ready[0m [90m# SearchSteps.enviroment_is_ready()[0m
+
+  @Regression @User2 @Smoke
+  Scenario Template: Google Search              [90m# Features\Search.feature:21[0m
+    [32mWhen [0m[32mgo to [0m[32m[1m'https://www.google.com'[0m[32m website[0m [90m# SearchSteps.go_to_website(String)[0m
+    [32mThen [0m[32mEnter [0m[32m[1m'Duttar'[0m[32m in search box[0m           [90m# SearchSteps.enter_in_search_box(String)[0m
+    [32m* [0m[32mClose Browser[0m                             [90m# SearchSteps.close_Browser()[0m
+
+  Background: set up          [90m# Features\Search.feature:6[0m
+    [32mGiven [0m[32mEnviroment is ready[0m [90m# SearchSteps.enviroment_is_ready()[0m
+
+  @Regression @User2 @Smoke
+  Scenario Template: Google Search              [90m# Features\Search.feature:22[0m
+    [32mWhen [0m[32mgo to [0m[32m[1m'https://www.google.com'[0m[32m website[0m [90m# SearchSteps.go_to_website(String)[0m
+    [32mThen [0m[32mEnter [0m[32m[1m'Japan'[0m[32m in search box[0m            [90m# SearchSteps.enter_in_search_box(String)[0m
+    [32m* [0m[32mClose Browser[0m                             [90m# SearchSteps.close_Browser()[0m
+
+  Background: set up          [90m# Features\Search.feature:6[0m
+    [32mGiven [0m[32mEnviroment is ready[0m [90m# SearchSteps.enviroment_is_ready()[0m
+
+  @Regression @User2 @Smoke
+  Scenario Template: Google Search              [90m# Features\Search.feature:23[0m
+    [32mWhen [0m[32mgo to [0m[32m[1m'https://www.google.com'[0m[32m website[0m [90m# SearchSteps.go_to_website(String)[0m
+    [32mThen [0m[32mEnter [0m[32m[1m'kawap'[0m[32m in search box[0m            [90m# SearchSteps.enter_in_search_box(String)[0m
+    [32m* [0m[32mClose Browser[0m                             [90m# SearchSteps.close_Browser()[0m
+
+  Background: set up          [90m# Features\Search.feature:6[0m
+    [32mGiven [0m[32mEnviroment is ready[0m [90m# SearchSteps.enviroment_is_ready()[0m
+
+  @Regression @User2 @Smoke
+  Scenario Template: Google Search              [90m# Features\Search.feature:24[0m
+    [32mWhen [0m[32mgo to [0m[32m[1m'https://www.google.com'[0m[32m website[0m [90m# SearchSteps.go_to_website(String)[0m
+    [32mThen [0m[32mEnter [0m[32m[1m'soccer'[0m[32m in search box[0m           [90m# SearchSteps.enter_in_search_box(String)[0m
+    [32m* [0m[32mClose Browser[0m                             [90m# SearchSteps.close_Browser()[0m
+
+  Background: set up          [90m# Features\Search.feature:6[0m
+    [32mGiven [0m[32mEnviroment is ready[0m [90m# SearchSteps.enviroment_is_ready()[0m
+
+  @Regression @User2 @Smoke
+  Scenario Template: Google Search              [90m# Features\Search.feature:25[0m
+    [32mWhen [0m[32mgo to [0m[32m[1m'https://www.google.com'[0m[32m website[0m [90m# SearchSteps.go_to_website(String)[0m
+    [32mThen [0m[32mEnter [0m[32m[1m'computer'[0m[32m in search box[0m         [90m# SearchSteps.enter_in_search_box(String)[0m
+    [32m* [0m[32mClose Browser[0m                             [90m# SearchSteps.close_Browser()[0m
+
+  @amazon
+  Scenario Outline: Amazon Search [90m# Features\Search.feature:28[0m
+    [36mWhen go to 'https://www.amazon.com' website[0m
+    [36mAnd enter '<Products>' in the search box[0m
+    [36m* Close Browser[0m
+
+    Examples: 
+
+  Background: set up          [90m# Features\Search.feature:6[0m
+    [32mGiven [0m[32mEnviroment is ready[0m [90m# SearchSteps.enviroment_is_ready()[0m
+
+  @Regression @User2 @amazon
+  Scenario Outline: Amazon Search               [90m# Features\Search.feature:35[0m
+    [32mWhen [0m[32mgo to [0m[32m[1m'https://www.amazon.com'[0m[32m website[0m [90m# SearchSteps.go_to_website(String)[0m
+    [32mAnd [0m[32menter [0m[32m[1m'apple'[0m[32m in the search box[0m         [90m# SearchSteps.enter_in_the_search_box(String)[0m
+    [32m* [0m[32mClose Browser[0m                             [90m# SearchSteps.close_Browser()[0m
+
+  Background: set up          [90m# Features\Search.feature:6[0m
+    [32mGiven [0m[32mEnviroment is ready[0m [90m# SearchSteps.enviroment_is_ready()[0m
+
+  @Regression @User2 @amazon
+  Scenario Outline: Amazon Search               [90m# Features\Search.feature:36[0m
+    [32mWhen [0m[32mgo to [0m[32m[1m'https://www.amazon.com'[0m[32m website[0m [90m# SearchSteps.go_to_website(String)[0m
+    [32mAnd [0m[32menter [0m[32m[1m'kitap'[0m[32m in the search box[0m         [90m# SearchSteps.enter_in_the_search_box(String)[0m
+    [32m* [0m[32mClose Browser[0m                             [90m# SearchSteps.close_Browser()[0m
+
+  Background: set up          [90m# Features\Search.feature:6[0m
+    [32mGiven [0m[32mEnviroment is ready[0m [90m# SearchSteps.enviroment_is_ready()[0m
+
+  @Regression @User2 @amazon
+  Scenario Outline: Amazon Search               [90m# Features\Search.feature:37[0m
+    [32mWhen [0m[32mgo to [0m[32m[1m'https://www.amazon.com'[0m[32m website[0m [90m# SearchSteps.go_to_website(String)[0m
+    [32mAnd [0m[32menter [0m[32m[1m'uyghur'[0m[32m in the search box[0m        [90m# SearchSteps.enter_in_the_search_box(String)[0m
+    [32m* [0m[32mClose Browser[0m                             [90m# SearchSteps.close_Browser()[0m
+
+  Background: set up          [90m# Features\Search.feature:6[0m
+    [32mGiven [0m[32mEnviroment is ready[0m [90m# SearchSteps.enviroment_is_ready()[0m
+
+  @Regression @User2 @amazon
+  Scenario Outline: Amazon Search               [90m# Features\Search.feature:38[0m
+    [32mWhen [0m[32mgo to [0m[32m[1m'https://www.amazon.com'[0m[32m website[0m [90m# SearchSteps.go_to_website(String)[0m
+    [32mAnd [0m[32menter [0m[32m[1m'Reyise'[0m[32m in the search box[0m        [90m# SearchSteps.enter_in_the_search_box(String)[0m
+    [32m* [0m[32mClose Browser[0m                             [90m# SearchSteps.close_Browser()[0m
+
+  Background: set up          [90m# Features\Search.feature:6[0m
+    [32mGiven [0m[32mEnviroment is ready[0m [90m# SearchSteps.enviroment_is_ready()[0m
+
+  @Regression @User2 @amazon
+  Scenario Outline: Amazon Search               [90m# Features\Search.feature:39[0m
+    [32mWhen [0m[32mgo to [0m[32m[1m'https://www.amazon.com'[0m[32m website[0m [90m# SearchSteps.go_to_website(String)[0m
+    [32mAnd [0m[32menter [0m[32m[1m'Duttar'[0m[32m in the search box[0m        [90m# SearchSteps.enter_in_the_search_box(String)[0m
+    [32m* [0m[32mClose Browser[0m                             [90m# SearchSteps.close_Browser()[0m
+
+  Background: set up          [90m# Features\Search.feature:6[0m
+    [32mGiven [0m[32mEnviroment is ready[0m [90m# SearchSteps.enviroment_is_ready()[0m
+
+  @Regression @User2 @amazon
+  Scenario Outline: Amazon Search               [90m# Features\Search.feature:40[0m
+    [32mWhen [0m[32mgo to [0m[32m[1m'https://www.amazon.com'[0m[32m website[0m [90m# SearchSteps.go_to_website(String)[0m
+    [32mAnd [0m[32menter [0m[32m[1m'Japan'[0m[32m in the search box[0m         [90m# SearchSteps.enter_in_the_search_box(String)[0m
+    [32m* [0m[32mClose Browser[0m                             [90m# SearchSteps.close_Browser()[0m
+
+  Background: set up          [90m# Features\Search.feature:6[0m
+    [32mGiven [0m[32mEnviroment is ready[0m [90m# SearchSteps.enviroment_is_ready()[0m
+
+  @Regression @User2 @amazon
+  Scenario Outline: Amazon Search               [90m# Features\Search.feature:41[0m
+    [32mWhen [0m[32mgo to [0m[32m[1m'https://www.amazon.com'[0m[32m website[0m [90m# SearchSteps.go_to_website(String)[0m
+    [32mAnd [0m[32menter [0m[32m[1m'kawap'[0m[32m in the search box[0m         [90m# SearchSteps.enter_in_the_search_box(String)[0m
+    [32m* [0m[32mClose Browser[0m                             [90m# SearchSteps.close_Browser()[0m
+
+  Background: set up          [90m# Features\Search.feature:6[0m
+    [32mGiven [0m[32mEnviroment is ready[0m [90m# SearchSteps.enviroment_is_ready()[0m
+
+  @Regression @User2 @amazon
+  Scenario Outline: Amazon Search               [90m# Features\Search.feature:42[0m
+    [32mWhen [0m[32mgo to [0m[32m[1m'https://www.amazon.com'[0m[32m website[0m [90m# SearchSteps.go_to_website(String)[0m
+    [32mAnd [0m[32menter [0m[32m[1m'soccer'[0m[32m in the search box[0m        [90m# SearchSteps.enter_in_the_search_box(String)[0m
+    [32m* [0m[32mClose Browser[0m                             [90m# SearchSteps.close_Browser()[0m
+
+  Background: set up          [90m# Features\Search.feature:6[0m
+    [32mGiven [0m[32mEnviroment is ready[0m [90m# SearchSteps.enviroment_is_ready()[0m
+
+  @Regression @User2 @amazon
+  Scenario Outline: Amazon Search               [90m# Features\Search.feature:43[0m
+    [32mWhen [0m[32mgo to [0m[32m[1m'https://www.amazon.com'[0m[32m website[0m [90m# SearchSteps.go_to_website(String)[0m
+    [32mAnd [0m[32menter [0m[32m[1m'computer'[0m[32m in the search box[0m      [90m# SearchSteps.enter_in_the_search_box(String)[0m
+    [32m* [0m[32mClose Browser[0m                             [90m# SearchSteps.close_Browser()[0m

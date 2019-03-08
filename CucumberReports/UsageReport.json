@@ -1,0 +1,513 @@
+[
+  {
+    "source": "Close Browser",
+    "steps": [
+      {
+        "name": "Close Browser",
+        "aggregatedDurations": {
+          "average": 0.68280855,
+          "median": 0.694087632
+        },
+        "durations": [
+          {
+            "duration": 0.68818935,
+            "location": "Features\\Search.feature:13"
+          },
+          {
+            "duration": 0.638107923,
+            "location": "Features\\Search.feature:13"
+          },
+          {
+            "duration": 0.63700887,
+            "location": "Features\\Search.feature:13"
+          },
+          {
+            "duration": 0.673805538,
+            "location": "Features\\Search.feature:13"
+          },
+          {
+            "duration": 0.6384801,
+            "location": "Features\\Search.feature:13"
+          },
+          {
+            "duration": 0.646961002,
+            "location": "Features\\Search.feature:13"
+          },
+          {
+            "duration": 0.650324473,
+            "location": "Features\\Search.feature:13"
+          },
+          {
+            "duration": 0.650639075,
+            "location": "Features\\Search.feature:13"
+          },
+          {
+            "duration": 0.655403863,
+            "location": "Features\\Search.feature:13"
+          },
+          {
+            "duration": 0.713738465,
+            "location": "Features\\Search.feature:31"
+          },
+          {
+            "duration": 0.719364297,
+            "location": "Features\\Search.feature:31"
+          },
+          {
+            "duration": 0.702019521,
+            "location": "Features\\Search.feature:31"
+          },
+          {
+            "duration": 0.711360954,
+            "location": "Features\\Search.feature:31"
+          },
+          {
+            "duration": 0.699985915,
+            "location": "Features\\Search.feature:31"
+          },
+          {
+            "duration": 0.726855641,
+            "location": "Features\\Search.feature:31"
+          },
+          {
+            "duration": 0.711875524,
+            "location": "Features\\Search.feature:31"
+          },
+          {
+            "duration": 0.714439124,
+            "location": "Features\\Search.feature:31"
+          },
+          {
+            "duration": 0.711994271,
+            "location": "Features\\Search.feature:31"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Enviroment is ready",
+    "steps": [
+      {
+        "name": "Enviroment is ready",
+        "aggregatedDurations": {
+          "average": 3.367054744,
+          "median": 3.310737558
+        },
+        "durations": [
+          {
+            "duration": 4.151062143,
+            "location": "Features\\Search.feature:7"
+          },
+          {
+            "duration": 3.307862698,
+            "location": "Features\\Search.feature:7"
+          },
+          {
+            "duration": 3.280096972,
+            "location": "Features\\Search.feature:7"
+          },
+          {
+            "duration": 3.407125952,
+            "location": "Features\\Search.feature:7"
+          },
+          {
+            "duration": 3.378552644,
+            "location": "Features\\Search.feature:7"
+          },
+          {
+            "duration": 3.285389182,
+            "location": "Features\\Search.feature:7"
+          },
+          {
+            "duration": 3.370742071,
+            "location": "Features\\Search.feature:7"
+          },
+          {
+            "duration": 3.36739762,
+            "location": "Features\\Search.feature:7"
+          },
+          {
+            "duration": 3.252961993,
+            "location": "Features\\Search.feature:7"
+          },
+          {
+            "duration": 3.395362801,
+            "location": "Features\\Search.feature:7"
+          },
+          {
+            "duration": 3.304601524,
+            "location": "Features\\Search.feature:7"
+          },
+          {
+            "duration": 3.278108087,
+            "location": "Features\\Search.feature:7"
+          },
+          {
+            "duration": 3.325809433,
+            "location": "Features\\Search.feature:7"
+          },
+          {
+            "duration": 3.270736519,
+            "location": "Features\\Search.feature:7"
+          },
+          {
+            "duration": 3.313612418,
+            "location": "Features\\Search.feature:7"
+          },
+          {
+            "duration": 3.263258028,
+            "location": "Features\\Search.feature:7"
+          },
+          {
+            "duration": 3.302580768,
+            "location": "Features\\Search.feature:7"
+          },
+          {
+            "duration": 3.351724556,
+            "location": "Features\\Search.feature:7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "enter {string} in the search box",
+    "steps": [
+      {
+        "name": "enter \u0027apple\u0027 in the search box",
+        "aggregatedDurations": {
+          "average": 4.226991866,
+          "median": 4.226991866
+        },
+        "durations": [
+          {
+            "duration": 4.226991866,
+            "location": "Features\\Search.feature:30"
+          }
+        ]
+      },
+      {
+        "name": "enter \u0027kitap\u0027 in the search box",
+        "aggregatedDurations": {
+          "average": 4.802990985,
+          "median": 4.802990985
+        },
+        "durations": [
+          {
+            "duration": 4.802990985,
+            "location": "Features\\Search.feature:30"
+          }
+        ]
+      },
+      {
+        "name": "enter \u0027uyghur\u0027 in the search box",
+        "aggregatedDurations": {
+          "average": 3.610854712,
+          "median": 3.610854712
+        },
+        "durations": [
+          {
+            "duration": 3.610854712,
+            "location": "Features\\Search.feature:30"
+          }
+        ]
+      },
+      {
+        "name": "enter \u0027Reyise\u0027 in the search box",
+        "aggregatedDurations": {
+          "average": 3.405087718,
+          "median": 3.405087718
+        },
+        "durations": [
+          {
+            "duration": 3.405087718,
+            "location": "Features\\Search.feature:30"
+          }
+        ]
+      },
+      {
+        "name": "enter \u0027Duttar\u0027 in the search box",
+        "aggregatedDurations": {
+          "average": 3.649871075,
+          "median": 3.649871075
+        },
+        "durations": [
+          {
+            "duration": 3.649871075,
+            "location": "Features\\Search.feature:30"
+          }
+        ]
+      },
+      {
+        "name": "enter \u0027Japan\u0027 in the search box",
+        "aggregatedDurations": {
+          "average": 4.739748174,
+          "median": 4.739748174
+        },
+        "durations": [
+          {
+            "duration": 4.739748174,
+            "location": "Features\\Search.feature:30"
+          }
+        ]
+      },
+      {
+        "name": "enter \u0027kawap\u0027 in the search box",
+        "aggregatedDurations": {
+          "average": 3.228280091,
+          "median": 3.228280091
+        },
+        "durations": [
+          {
+            "duration": 3.228280091,
+            "location": "Features\\Search.feature:30"
+          }
+        ]
+      },
+      {
+        "name": "enter \u0027soccer\u0027 in the search box",
+        "aggregatedDurations": {
+          "average": 6.17581447,
+          "median": 6.17581447
+        },
+        "durations": [
+          {
+            "duration": 6.17581447,
+            "location": "Features\\Search.feature:30"
+          }
+        ]
+      },
+      {
+        "name": "enter \u0027computer\u0027 in the search box",
+        "aggregatedDurations": {
+          "average": 3.558533028,
+          "median": 3.558533028
+        },
+        "durations": [
+          {
+            "duration": 3.558533028,
+            "location": "Features\\Search.feature:30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "go to {string} website",
+    "steps": [
+      {
+        "name": "go to \u0027https://www.google.com\u0027 website",
+        "aggregatedDurations": {
+          "average": 1.889460062,
+          "median": 1.78543596
+        },
+        "durations": [
+          {
+            "duration": 2.597793053,
+            "location": "Features\\Search.feature:11"
+          },
+          {
+            "duration": 1.828465048,
+            "location": "Features\\Search.feature:11"
+          },
+          {
+            "duration": 1.879460467,
+            "location": "Features\\Search.feature:11"
+          },
+          {
+            "duration": 1.823372292,
+            "location": "Features\\Search.feature:11"
+          },
+          {
+            "duration": 1.772366078,
+            "location": "Features\\Search.feature:11"
+          },
+          {
+            "duration": 1.78543596,
+            "location": "Features\\Search.feature:11"
+          },
+          {
+            "duration": 1.772269435,
+            "location": "Features\\Search.feature:11"
+          },
+          {
+            "duration": 1.773729355,
+            "location": "Features\\Search.feature:11"
+          },
+          {
+            "duration": 1.772248874,
+            "location": "Features\\Search.feature:11"
+          }
+        ]
+      },
+      {
+        "name": "go to \u0027https://www.amazon.com\u0027 website",
+        "aggregatedDurations": {
+          "average": 7.700762254,
+          "median": 7.435564063
+        },
+        "durations": [
+          {
+            "duration": 7.481750486,
+            "location": "Features\\Search.feature:29"
+          },
+          {
+            "duration": 6.96979045,
+            "location": "Features\\Search.feature:29"
+          },
+          {
+            "duration": 7.215563878,
+            "location": "Features\\Search.feature:29"
+          },
+          {
+            "duration": 6.624532723,
+            "location": "Features\\Search.feature:29"
+          },
+          {
+            "duration": 7.703104694,
+            "location": "Features\\Search.feature:29"
+          },
+          {
+            "duration": 7.192191792,
+            "location": "Features\\Search.feature:29"
+          },
+          {
+            "duration": 10.99946898,
+            "location": "Features\\Search.feature:29"
+          },
+          {
+            "duration": 7.435564063,
+            "location": "Features\\Search.feature:29"
+          },
+          {
+            "duration": 7.68489322,
+            "location": "Features\\Search.feature:29"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Enter {string} in search box",
+    "steps": [
+      {
+        "name": "Enter \u0027apple\u0027 in search box",
+        "aggregatedDurations": {
+          "average": 3.904512489,
+          "median": 3.904512489
+        },
+        "durations": [
+          {
+            "duration": 3.904512489,
+            "location": "Features\\Search.feature:12"
+          }
+        ]
+      },
+      {
+        "name": "Enter \u0027kitap\u0027 in search box",
+        "aggregatedDurations": {
+          "average": 1.923153201,
+          "median": 1.923153201
+        },
+        "durations": [
+          {
+            "duration": 1.923153201,
+            "location": "Features\\Search.feature:12"
+          }
+        ]
+      },
+      {
+        "name": "Enter \u0027uyghur\u0027 in search box",
+        "aggregatedDurations": {
+          "average": 2.543565762,
+          "median": 2.543565762
+        },
+        "durations": [
+          {
+            "duration": 2.543565762,
+            "location": "Features\\Search.feature:12"
+          }
+        ]
+      },
+      {
+        "name": "Enter \u0027Reyise\u0027 in search box",
+        "aggregatedDurations": {
+          "average": 2.106506822,
+          "median": 2.106506822
+        },
+        "durations": [
+          {
+            "duration": 2.106506822,
+            "location": "Features\\Search.feature:12"
+          }
+        ]
+      },
+      {
+        "name": "Enter \u0027Duttar\u0027 in search box",
+        "aggregatedDurations": {
+          "average": 1.984699112,
+          "median": 1.984699112
+        },
+        "durations": [
+          {
+            "duration": 1.984699112,
+            "location": "Features\\Search.feature:12"
+          }
+        ]
+      },
+      {
+        "name": "Enter \u0027Japan\u0027 in search box",
+        "aggregatedDurations": {
+          "average": 2.813366184,
+          "median": 2.813366184
+        },
+        "durations": [
+          {
+            "duration": 2.813366184,
+            "location": "Features\\Search.feature:12"
+          }
+        ]
+      },
+      {
+        "name": "Enter \u0027kawap\u0027 in search box",
+        "aggregatedDurations": {
+          "average": 2.097316523,
+          "median": 2.097316523
+        },
+        "durations": [
+          {
+            "duration": 2.097316523,
+            "location": "Features\\Search.feature:12"
+          }
+        ]
+      },
+      {
+        "name": "Enter \u0027soccer\u0027 in search box",
+        "aggregatedDurations": {
+          "average": 2.56306649,
+          "median": 2.56306649
+        },
+        "durations": [
+          {
+            "duration": 2.56306649,
+            "location": "Features\\Search.feature:12"
+          }
+        ]
+      },
+      {
+        "name": "Enter \u0027computer\u0027 in search box",
+        "aggregatedDurations": {
+          "average": 3.097098563,
+          "median": 3.097098563
+        },
+        "durations": [
+          {
+            "duration": 3.097098563,
+            "location": "Features\\Search.feature:12"
+          }
+        ]
+      }
+    ]
+  }
+]
